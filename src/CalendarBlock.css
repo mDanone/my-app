@@ -1,0 +1,24 @@
+.calendar-container{
+    border: 6px solid #5E9EFF;
+    width: 270px;
+    height: 170px;
+}
+
+.calendar-date-day{
+    font-size: 70px;
+    margin: 0 0 20px 10px;
+}
+
+.calendar-lower-block{
+    text-align: right;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.calendar-week-day{
+    margin: 0px;
+}
+
+.calendar-event{
+    margin: 0px;
+}
